@@ -38,7 +38,7 @@ bai04/
 
 ### Chạy toàn bộ test
 ```bash
-mvn test
+mvn te
 ```
 
 ### Xem báo cáo coverage (JaCoCo)
